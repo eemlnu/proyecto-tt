@@ -7,6 +7,6 @@ data.py -> Es el conjunto de datos devuelto por depuracion.py, a partir de este 
 
 Algoritmo FpGrowth.py
 Algoritmo ECLAT.py
-Algoritmo Aprior.py 
+Algoritmo Apriori.py 
 
 PD: Para ejecutar los algoritmos, el archivo data.py debe estar en la misma carpeta que los algoritmos.
