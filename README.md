@@ -1,4 +1,4 @@
-# Tesis - objetivo2
+# Tesis - Mineria de datos
 En este repositorio se encuentran las evidencias del segundo objetivo
 
 depuracion.py -> Es el codigo para recorrer los comprobantes xml, eliminar los duplicados y seleccionar las campos a utilizar, este codigo genera el archivo data.py
